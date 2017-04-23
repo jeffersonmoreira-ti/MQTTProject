@@ -5,7 +5,7 @@
 	<artifactId>com.jeffersonmoreira.mqttproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MqttProject</name>
-	<description>Project to test MQTT Protocol Using Java for MQTT Assynchronously</description>
+	<description>Project to test MQTT Protocol Using Java for MQTT Asynchronously</description>
 	<repositories>
 		<repository>
 			<id>Eclipse Paho Repo</id>
